@@ -150,7 +150,7 @@ Probably, an online dataset augmentation strategy may be effective to improve se
 <br>
 
 <h3>
-4 Train TensorflowUNet Model
+3 Train TensorflowUNet Model
 </h3>
  We have trained White-Blood-Cell TensorflowUNet Model by using the following
 <a href="./projects/TensorflowSlightlyFlexibleUNet/White-Blood-Cell/train_eval_infer.config"> <b>train_eval_infer.config</b></a> file. <br>
@@ -375,7 +375,7 @@ In this case, the training process stopped at epoch 35 by EarlyStopping Callback
 <br>
 
 <h3>
-5 Evaluation
+4 Evaluation
 </h3>
 Please move to a <b>./projects/TensorflowSlightlyFlexibleUNet/White-Blood-Cell</b> folder,<br>
 and run the following bat file to evaluate TensorflowUNet model for White-Blood-Cell.<br>
@@ -400,7 +400,7 @@ dice_coef,0.6743
 </pre>
 
 <h3>
-6 Inference
+5 Inference
 </h3>
 Please move to a <b>./projects/TensorflowSlightlyFlexibleUNet/White-Blood-Cell</b> folder<br>
 ,and run the following bat file to infer segmentation regions for images by the Trained-TensorflowUNet model for White-Blood-Cell.<br>
