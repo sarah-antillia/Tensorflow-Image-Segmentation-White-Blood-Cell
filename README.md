@@ -94,10 +94,8 @@ https://github.com/cosmicad/dataset
  If you would like to train this White-Blood-Cell Segmentation model by yourself,
 please clone the original Github regpository
 <a href="https://github.com/arbackes/White-Blood-Cell-dataset">White-Blood-Cell-datasetWhite-Blood-Cell-dataset</a> 
-
- to your local env, and run <a href="./generator/ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py
-</a>    
-and <a href="./generator/split_master.py">split_master.py</a>.<br>
+to your local env, and run <a href="./generator/ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py
+</a> and <a href="./generator/split_master.py">split_master.py</a>.<br>
 
 <pre>
 ./dataset
