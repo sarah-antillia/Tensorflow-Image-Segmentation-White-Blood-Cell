@@ -4,7 +4,10 @@ This is the first experiment of Image Segmentation for
 <a href="https://github.com/arbackes/White-Blood-Cell-dataset">White-Blood-Cell-datasetWhite-Blood-Cell-dataset</a> based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, <br>
 <br>
-A recent study <a href="https://www.sciencedirect.com/science/article/pii/S0169260718311064#bbib0033">On white blood cell segmentation methods</a> employed various techniques to precisely identify blood cell regions. 
+As mentioned in recent study <a href="https://www.sciencedirect.com/science/article/pii/S0169260718311064#bbib0033">
+Recent computational methods for white blood cell nuclei segmentation: A comparative study
+</a>, 
+the various techniques were developed to precisely identify blood cell regions. 
 In this experiment, we applied an RGB-to-HSV color conversion to the input images to enhance the stained 
 white blood cell regions.
 <br>
