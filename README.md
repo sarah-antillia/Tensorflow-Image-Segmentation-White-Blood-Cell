@@ -1,7 +1,7 @@
 <h2>Tensorflow-Image-Segmentation-White-Blood-Cell (2024/07/17)</h2>
 
 This is the first experiment of Image Segmentation for 
-<a href="https://github.com/arbackes/White-Blood-Cell-dataset">White-Blood-Cell-datasetWhite-Blood-Cell-dataset</a> based on
+<a href="https://github.com/arbackes/White-Blood-Cell-dataset">White-Blood-Cell-dataset</a> based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, <br>
 <br>
 As mentioned in recent study <a href="https://www.sciencedirect.com/science/article/pii/S0169260718311064#bbib0033">
@@ -95,7 +95,7 @@ https://github.com/cosmicad/dataset
 2 White-Blood-Cell ImageMask Dataset
 </h3>
  If you would like to train this White-Blood-Cell Segmentation model by yourself,
-please clone the original Github regpository
+please clone the original Github repository
 <a href="https://github.com/arbackes/White-Blood-Cell-dataset">White-Blood-Cell-datasetWhite-Blood-Cell-dataset</a> 
 to your local env, and run <a href="./generator/ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py
 </a> and <a href="./generator/split_master.py">split_master.py</a>.<br>
