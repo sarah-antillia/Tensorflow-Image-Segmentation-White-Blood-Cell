@@ -360,7 +360,7 @@ By using this EpochChangeInference callback, on every epoch_change, the inferenc
 <img src="./projects/TensorflowSlightlyFlexibleUNet/White-Blood-Cell/asset/epoch_change_infer.png" width="1024" height="auto"><br>
 <br>
 <br>
-In this case, the training process stopped at epoch 35 by EarlyStopping Callback as shown below.<br>
+In this case, the training process stopped at epoch 16 by EarlyStopping Callback as shown below.<br>
 <b>Training console output</b><br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/White-Blood-Cell/asset/train_console_output_at_epoch_16.png" width="720" height="auto"><br>
 <br>
